@@ -19,6 +19,7 @@ public class TestNG {
 	@AfterSuite
 	public void afterSuit() {
 		System.out.println("This is After Suit Method");
+		System.out.println("This is After Suit Methodq");
 	}
 	
 	@BeforeTest
